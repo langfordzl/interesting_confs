@@ -8,3 +8,7 @@ https://sites.google.com/site/socialnlp2018/
 
 http://asonam.cpsc.ucalgary.ca/2019/#
 
+13th International Workshop on Mining and Learning with Graphs
+
+http://www.mlgworkshop.org/2017/
+
