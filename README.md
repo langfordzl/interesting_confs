@@ -2,6 +2,9 @@
 List of interesting conferences with paper submissions (mostly from www.wikicfp.com)
 
 # Social Media
+
+6th International Workshop on Natural Language Processing for Social Media
+
 https://sites.google.com/site/socialnlp2018/
 
 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
