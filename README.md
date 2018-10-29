@@ -17,6 +17,12 @@ http://asonam.cpsc.ucalgary.ca/2019/#
 
 http://www.mlgworkshop.org/2017/
 
+# Intelligence and Security
+
+International Conference on Data Intelligence and Security
+
+https://www.icdis.org/
+
 # Special Issue Journals
 
 https://www.mdpi.com/journal/information/special_issues/ML_Cybersecurity
