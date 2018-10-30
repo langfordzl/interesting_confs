@@ -11,6 +11,10 @@ https://sites.google.com/site/socialnlp2018/
 
 http://asonam.cpsc.ucalgary.ca/2019/#
 
+The Joint International Workshop on Social Influence Analysis and Mining Actionable Insights from Social Networks
+
+http://socinf-maison-2018.isistan.unicen.edu.ar/
+
 # Graph Mining
 
 13th International Workshop on Mining and Learning with Graphs
