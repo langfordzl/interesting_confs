@@ -27,6 +27,10 @@ International Conference on Data Intelligence and Security
 
 https://www.icdis.org/
 
+International Conference on Cyber Security of Cyber Physical Systems
+
+https://waset.org/conference/2019/04/boston/ICCSCPS
+
 # Special Issue Journals
 
 https://www.mdpi.com/journal/information/special_issues/ML_Cybersecurity
